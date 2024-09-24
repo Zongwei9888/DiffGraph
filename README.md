@@ -9,3 +9,22 @@ Recent advances in Graph Neural Networks (GNNs) have significantly improved mode
 - numpy=1.23.1
 - scipy=1.9.1
 - dgl=1.0.2+cu113
+## Code Structures 
+    .
+    ├──HGDM-Rec
+     ├── DataHandler.py
+     ├── main.py
+     ├── param.py
+     ├── Utils                    
+     │   ├── TimeLogger.py            
+     │   ├── Utils.py                             
+     ├── Model.py
+    ├──HGDM_NC
+     ├──DataHandler.py
+     ├── main.py
+     ├── param.py
+     ├── Utils                    
+     │   ├── TimeLogger.py            
+     │   ├── Utils.py
+     ├── Model.py
+    └── README
