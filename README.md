@@ -28,3 +28,30 @@ Recent advances in Graph Neural Networks (GNNs) have significantly improved mode
      │   ├── Utils.py
      ├── Model.py
     └── README
+## Datasets
+We evaluate HGDM on both the link prediction
+and node classification tasks. For link prediction, we utilize three
+publicly available datasets collected from real-world commercial
+platforms: Tmall, Retailrocket, and IJCAI. For the node classifi-
+cation task, we use two public datasets, DBLP and AMiner, which
+focus on publications and academic social ties, as well as an Indus-
+try dataset for user classification collected from a popular game
+platform. Statistics of these datasets are in Table 1. Below is the
+detailed descriptions for the experimental datasets.
+
+| Dataset       | User \# | Item \# | Link \#    | Interaction Types               |
+|---------------|---------|---------|------------|---------------------------------|
+| Tmall         | 31882   | 31232   | 1,451,29   | View, Favorite, Cart, Purchase  |
+| Retail Rocket | 2174    | 30113   | 97,381     | View, Cart, Transaction         |
+| IJCAI         | 17435   | 35920   | 799,368    | View, Favorite, Cart, Purchase  |
+| Industry      | 1M      | 361     | 23,890,445 | Purchase, Friend, Complete Task |
+
+|  | Node | Metapath |  | Node | Metapath |
+|---|---|---|---|---|---|
+| DBLP | Author:4057 | APA | AMiner | paper:6564 | PAP |
+|      | Paper:14328 | APCPA |      | author:13329 | PRP |
+|      | Conference:20 | APTPA |    | Reference:35890 | POS |
+|  | Term:7723 |  |  |  |
+
+
+
