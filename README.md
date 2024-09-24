@@ -1,4 +1,4 @@
-# HDL
+# HGDM
 The code will coming soon!
 >Heterogeneous Diffusion Graph Learning
 ![model](./HDL.jpg)
