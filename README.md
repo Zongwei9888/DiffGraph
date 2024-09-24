@@ -9,7 +9,8 @@ Recent advances in Graph Neural Networks (GNNs) have significantly improved mode
 - numpy=1.23.1
 - scipy=1.9.1
 - dgl=1.0.2+cu113
-## Code Structures 
+## Code Structures
+#### The folder HGDM-Rec presents the code and datasets for link prediction(Recommendation), while HGDM-NC contains the code and datasets for the node classification task.
     .
     ├──HGDM-Rec
      ├── DataHandler.py
