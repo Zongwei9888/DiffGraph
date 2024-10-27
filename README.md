@@ -1,5 +1,5 @@
 # Heterogeneous Graph Diffusion Model (HGDM)
-![poster](https://github.com/Zongwei9888/Experiment_Images/blob/dc0439d9720a4e7521dd88765216209fd9e1c1c5/HGDM_images/image.jpeg)
+![poster](https://github.com/Zongwei9888/Experiment_Images/blob/4ea67a9d8c5f02e78c1b5a77855c16710c6bb819/HGDM_images/image.jpeg)
 >Framework
 ![model](./HDL.jpg)
 ## Abstract
