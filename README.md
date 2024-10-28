@@ -1,4 +1,4 @@
-# Heterogeneous Graph Diffusion Model (HGDM)
+# WSDM'2024: Heterogeneous Graph Diffusion Model (HGDM)
 ![poster](https://github.com/Zongwei9888/Experiment_Images/blob/4ea67a9d8c5f02e78c1b5a77855c16710c6bb819/HGDM_images/image.jpeg)
 >Framework
 ![model](./HDL.jpg)
